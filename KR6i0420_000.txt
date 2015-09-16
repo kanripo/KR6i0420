@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 六趣輪迴經
+#+DATE: 2015-08-30 20:19:12.021044
+#+PROPERTY: JUAN 0

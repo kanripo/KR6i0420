@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:11.823627
+#+DATE: 2015-08-30 20:19:12.251203
 #+TITLE: 六趣輪迴經
 #+PROPERTY: CBETA_ID T17n0726
 #+PROPERTY: ID KR6i0420
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 726
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0420_T_000-0455a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0420_T_001-0455a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.726¶
-
- 《六趣輪迴經》¶
+No. 726¶
+《六趣輪迴經》¶
 ¶
 馬鳴菩薩集¶
 西天譯經三藏朝散大夫¶
@@ -143,7 +142,7 @@ No.726¶
 　若人不饒益，
 　當受多種形，¶
 　兩山夾其身，
-　逼切復加㨝。¶
+　逼切復加[打-丁+屑]。¶
 　若人說非法，
 　破壞於橋梁，¶
 　鋒刃以為路，
@@ -160,7 +159,7 @@ No.726¶
 　矯現諸威儀，
 　苟求邪活命，¶
 　墮屍糞獄中，
-　為蛆虫𠯗食。¶
+　為蛆虫[口*(一/巾)]食。¶
 　見五穀中虫，
 　不擇而礱伐，¶
 　墮鐵碓獄中，
